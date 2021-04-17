@@ -11,19 +11,24 @@ tags:
   - CSS
   - Basic Elements
 ---
-
 The main purpose of this article is to make sure that all basic HTML Elements are decorated with CSS so as to not miss any possible elements when creating new themes for Hugo.
-<!--more-->
+
+<!--more--> 
 
 ## Headings
 
 Let's start with all possible headings. The HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level and `<h6>` is the lowest.
 
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 
 ***
@@ -38,15 +43,15 @@ Elements can have attributes, which control how the elements work. For example, 
 
 ### Ordered List
 
-1. First item
-2. Second item
-3. Third item
+1.  First item
+2.  Second item
+3.  Third item
 
 ### Unordered List
 
-* List item
-* Another item
-* And another item
+*   List item
+*   Another item
+*   And another item
 
 ### Nested list
 
@@ -141,7 +146,9 @@ You can also use inline Markdown.
 ```
 
 {{< highlight html >}}
+
 <!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -165,4 +172,6 @@ X<sup>n</sup> + Y<sup>n</sup> = Z<sup>n</sup>
 
 Press <kbd>X</kbd> to win. Or press <kbd><kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>F</kbd></kbd> to show FPS counter.
 
-<mark>As a unit of information in information theory, the bit has alternatively been called a shannon</mark>, named after Claude Shannon, the founder of field of information theory.
+<mark></mark>
+
+![](https://www.google.com/url?sa=i\&url=https%3A%2F%2Fwww.himalayanclimber.com%2Ftours%2Fpanchachuli-base-camp-trek%2F\&psig=AOvVaw1VXLx0Pd5nMdBETENueW-o\&ust=1618747444210000\&source=images\&cd=vfe\&ved=0CAIQjRxqFwoTCKCUjaWehfACFQAAAAAdAAAAABAD)
